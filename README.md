@@ -10,6 +10,8 @@
 
 A biomedical digital signal processing (DSP) study evaluating the trade-offs between **Infinite Impulse Response (IIR)** and **Finite Impulse Response (FIR)** bandpass filtering for electrocardiogram (ECG) denoising. Validated on authentic clinical telemetry from the **MIT-BIH Arrhythmia Database** (Record 100).
 
+> 🌐 **Interactive Workbench & Telemetry:** [Mukesh Yadav | Biosignal Processing & Neuromorphic Hardware](https://mukesh-yadav-res-portfolio.vercel.app/)
+
 ---
 
 ## 📖 Table of Contents
