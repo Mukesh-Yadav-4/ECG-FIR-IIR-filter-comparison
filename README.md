@@ -264,3 +264,15 @@ If you build upon this project or reference the benchmark results, please cite t
 
 ## 📜 License
 This project is open-source under the [MIT License](LICENSE) © 2026 Mukesh Yadav.
+
+
+---
+
+## Author & Contact
+
+**Mukesh Yadav**  
+Department of Electronics & Communication Engineering  
+JSS Academy of Technical Education, Noida (AKTU), India  
+*Email:* [mkpy06@gmail.com](mailto:mkpy06@gmail.com)  
+*LinkedIn:* [Mukesh Yadav](https://www.linkedin.com/in/mukesh-yadav-4131563ba/)  
+*GitHub:* [Mukesh-Yadav-4](https://github.com/Mukesh-Yadav-4) | *Portfolio:* [Interactive Portfolio](https://mukesh-yadav-res-portfolio.vercel.app/)
